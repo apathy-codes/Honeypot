@@ -9,3 +9,5 @@ Linux: sudo nano /etc/ssh/sshd_config
 
 Restart the SSH server:
 	sudo systemctl restart ssh
+
+Run the file, any connections will be uploaded to the terminal.
